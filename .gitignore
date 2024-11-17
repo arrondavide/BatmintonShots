@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.spec
+
+# Virtual environment
+venv/
+env/
+
+# Images, media, and other generated assets
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# Log files and debug output
+*.log
+*.out
+*.err
+
+# PySimpleGUI window configuration
+*.cfg
+
+# Matplotlib cache
+.matplotlib/
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+
+# Scratch files and temp work
+Scratches and Consoles/
